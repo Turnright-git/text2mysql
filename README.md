@@ -31,7 +31,7 @@ db_config = {
     'user': 'root',# 用户名
     'passwd': 'root', # 密码
     'charset': 'utf8',# 数据库字符集
-    'db': 'LendfMarket_db'# 数据库名
+    'db': 'test'# 数据库名
 }
 
 # text文件路径
